@@ -1,4 +1,4 @@
-In this repository we can find 3 files, which contain all of our calculations and plots of our engineering thesis "Discovering Impact of Market Microstructure on Stock Prices by Computational Intelligence Approach". 
+In this repository we published our engineering thesis (PDF) alongside code used. Thesis_codes directory contains all of our calculations and plots of our engineering thesis "Discovering Impact of Market Microstructure on Stock Prices by Computational Intelligence Approach". 
 
 First one called "Discovering_market_microstructure_parameters.ipynb" presents implementation of market microstructure parameters and show dependencies between them.
 
